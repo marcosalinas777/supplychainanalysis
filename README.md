@@ -140,7 +140,9 @@ defect_rates_by_product=data.groupby("Product type")["Defect rates"].mean().rese
 fig=px.bar(defect_rates_by_product, x="Product type", y="Defect rates",
           title="Average Defect Rates by Product Type")
 fig.show()
-![image](https://user-images.githubusercontent.com/95108103/230793475-3f3577e3-e0bd-4268-ae98-4dee28ba8eea.png)
+
+![image](https://user-images.githubusercontent.com/95108103/230793804-cdc826e3-3074-479e-b345-30f825bfe8df.png)
+
 
 <br>
 <br>
