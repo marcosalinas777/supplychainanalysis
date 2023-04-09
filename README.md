@@ -21,7 +21,9 @@ print(data.head())
 #let's have a look at the descriptive statistics of the set
 print(data.describe())
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230793762-a46a0f0d-df73-414a-b815-7b707867631c.png)
+
+![image](https://user-images.githubusercontent.com/95108103/230794003-f53edc28-5e9d-4195-82c9-e98bd978d926.png)
+
 
 
 
