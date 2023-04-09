@@ -112,7 +112,9 @@ shipping_cost_chart=px.bar(data, x="Shipping carriers",
                           title="Shipping Costs by Carrier")
 shipping_cost_chart.show()
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230793871-236ec813-fde4-4207-a583-b5c13429f60f.png)
+![image](https://user-images.githubusercontent.com/95108103/230793914-f3120fe7-19f2-49e3-90a1-a3dce1988df1.png)
+
+
 
 
 <br>
