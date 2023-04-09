@@ -77,7 +77,9 @@ result.rename(columns={"Lead time": "Average Lead Time", "Manufacturing costs": 
 print(result)
 
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230792908-790af508-f1ff-440f-824e-b7eb54758021.png)
+
+![image](https://user-images.githubusercontent.com/95108103/230794138-993dd014-253f-42af-a9f0-532a867fd236.png)
+
 
 <br>
 #There is a column in the data set as SKUs, which stands for Stock Keeping Units, these are special codes that help companies track
@@ -92,7 +94,9 @@ revenue_chart.show()
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/95108103/230793066-3d9df6dd-f55e-4750-a629-ec1eae6948cd.png)
+
+![image](https://user-images.githubusercontent.com/95108103/230794146-870d8e45-9243-41b6-a778-4e9e5028c7ca.png)
+
 
 
 #There is another column in the dataset as Stock levels, which refers to the number of products a store has in its inventory.
