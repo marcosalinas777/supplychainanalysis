@@ -101,7 +101,8 @@ order_quantity_chart=px.bar(data, x="SKU",
 order_quantity_chart.show()
 
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230793218-75d87dea-0c54-4c28-8925-bfe408f56e60.png)
+![image](https://user-images.githubusercontent.com/95108103/230793883-c0d91260-db86-449f-b715-4ab192d587d4.png)
+
 
 <br>
 #Cost Analysis
@@ -111,7 +112,8 @@ shipping_cost_chart=px.bar(data, x="Shipping carriers",
                           title="Shipping Costs by Carrier")
 shipping_cost_chart.show()
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230793253-de986b65-59bf-452d-82fd-b262ae085f57.png)
+![image](https://user-images.githubusercontent.com/95108103/230793871-236ec813-fde4-4207-a583-b5c13429f60f.png)
+
 
 <br>
 <br>
