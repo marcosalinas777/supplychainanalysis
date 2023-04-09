@@ -32,7 +32,8 @@ print(data.describe())
 fig = px.scatter(data, x="Price", y="Revenue generated", color="Product type", hover_data=["Number of products sold"], trendline="ols")
 fig.show()
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230792707-2b66c0d8-f303-4b5a-8832-f0eb9f33ef85.png)
+![image](https://user-images.githubusercontent.com/95108103/230794028-b35218ca-6648-48d8-943f-70f15a5f0fdb.png)
+
 
 <br>
 #The company derives more revenue from skincae products, and the higher the price of sincare products, the more revenue they generate.
