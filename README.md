@@ -125,7 +125,9 @@ transportation_chart=px.pie(data,
 transportation_chart.show()
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230793816-9485ff2e-764c-43c0-ac26-e0482f5924ab.png)
+
+![image](https://user-images.githubusercontent.com/95108103/230793844-274b7ea5-fa9f-4d2a-b4e6-05b601a3b463.png)
+
 
 
 <br>
