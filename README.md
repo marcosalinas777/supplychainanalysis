@@ -63,7 +63,9 @@ fig.update_layout(title="Total Revenue by Shipping Carrier",
 fig.show()
 
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230792821-d4e3d72d-2682-41c3-a21d-c903658db294.png)
+
+![image](https://user-images.githubusercontent.com/95108103/230794122-7ba8dc82-9195-43c8-bb61-99150c42111a.png)
+
 
 <br>
 #So the company is using 3 carriers for transportation, and carrier B helps the company in generating more revenue.
