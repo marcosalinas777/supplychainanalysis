@@ -130,7 +130,10 @@ shipping_cost_chart=px.bar(data, x="Shipping carriers",
 shipping_cost_chart.show()
 <br>
 
-![image](https://user-images.githubusercontent.com/95108103/230794187-d6b80e74-8e9a-418d-b52c-820262bf6708.png)
+
+
+![image](https://user-images.githubusercontent.com/95108103/230794232-26aace3f-fd21-4d1a-bd8d-028f1acbabe9.png)
+
 
 
 
