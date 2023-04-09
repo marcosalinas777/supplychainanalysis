@@ -32,7 +32,8 @@ print(data.describe())
 fig = px.scatter(data, x="Price", y="Revenue generated", color="Product type", hover_data=["Number of products sold"], trendline="ols")
 fig.show()
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230794028-b35218ca-6648-48d8-943f-70f15a5f0fdb.png)
+![image](https://user-images.githubusercontent.com/95108103/230794049-34406a7d-5e40-4201-bde6-293edf675516.png)
+
 
 
 <br>
