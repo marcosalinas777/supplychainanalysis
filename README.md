@@ -46,7 +46,10 @@ pie_chart=px.pie(sales_data, values="Number of products sold", names="Product ty
 pie_chart.update_traces(textposition="inside", textinfo="percent+label")
 pie_chart.show()
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230792773-63e58f1d-a345-4bc3-9d11-536e3d1463d2.png)
+
+
+![image](https://user-images.githubusercontent.com/95108103/230794106-3222ae93-8ad4-408e-9a4e-6cca3890df6e.png)
+
 
 <br>
 #So 45% of business comes from skincare products, 29.5% from haircare and 25.5% from cosmetics
