@@ -197,7 +197,10 @@ transportation_chart=px.pie(values=pivot_table["Defect rates"],
                            color_discrete_sequence=px.colors.qualitative.Pastel)
 transportation_chart.show()
 <br>
-![image](https://user-images.githubusercontent.com/95108103/230793539-a65b6c3d-58be-4bec-9210-126309b0ba01.png)
+
+
+![image](https://user-images.githubusercontent.com/95108103/231194425-bab3c923-3c9b-4902-ad87-a89a97bb3c5d.png)
+
 
 <br>
 <br>
